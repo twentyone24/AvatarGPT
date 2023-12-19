@@ -1,4 +1,4 @@
-# 👨‍💼 [Headshot AI](https://headshots-starter.vercel.app/) - Professional Headshots with AI
+# 👨‍💼 [Headshot AI](https://avatargpt.vercel.app/) - Professional Headshots with AI
 
 Introducing Headshot AI, an open-source project from [Leap AI](https://tryleap.ai/) that generates Professional AI Headshots in minutes.
 
@@ -10,7 +10,7 @@ This project was built to give developers & makers a great starting point into b
 
 ## How It Works
 
-Live demo **[here](https://getheadshots.ai)**.
+Live demo **[here](https://avatargpt.vercel.app/)**.
 
 The app is powered by:
 
@@ -87,9 +87,9 @@ Then, make sure to setup your site URL and redirect urls in the supabase dashboa
 
 For example:
 
-Site URL: https://headshots-starter.vercel.app
+Site URL: https://leap-headshots.vercel.app/
 
-Redirect URL: https://headshots-starter.vercel.app/**
+Redirect URL: https://leap-headshots.vercel.app/**
 
 ### 6. Create a [Leap AI](https://tryleap.ai/) account
 
